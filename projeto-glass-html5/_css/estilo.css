@@ -60,7 +60,7 @@ nav#menu h1 {
 }
 nav#menu a {
     color: #000000;
-    text-decoration: non;
+    text-decoration: none;
 }
 nav#menu a:hover {
     
